@@ -2,7 +2,7 @@ package util;
 
 public interface View2 {
 	
-	// 메인메뉴 
+	// 메인메뉴 //안녕
 	int HOME = 1;
 	
 	// 비회원   
